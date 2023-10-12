@@ -1,2 +1,3 @@
-# Develhope-Javascript-29
-Ejercicio 29 de Javascript del curso Develhope (JSON Methods 1)
+# JSON methods
+
+Convert the `developer` object into json.
